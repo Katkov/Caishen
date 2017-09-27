@@ -1,3 +1,6 @@
+## Fixes
+Fixed to use with Xcode 9 and Swift 3.2 
+
 ![Caishen](caishen.jpg)
 
 [![Travis build status](https://img.shields.io/travis/prolificinteractive/Caishen.svg?style=flat-square)](https://travis-ci.org/prolificinteractive/Caishen)
